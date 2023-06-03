@@ -1,4 +1,4 @@
-<h1 align="center">Hello Welcome 👋, I'm Cornell Henry</h1>
+<h1 align="center">Hello & Welcome 👋,</h1>
 <h3 align="center">Cyber Financial Specialist</h3>
 
 - 🔭 I’m currently working with **Python, Cloud, Kali**
