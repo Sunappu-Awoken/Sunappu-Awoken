@@ -45,15 +45,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/filezilla-1.svg" alt="FileZilla" width="40" height="40"/>
+    <!-- FileZilla (official favicon) -->
+  <img src="https://filezilla-project.org/images/favicon.png" alt="FileZilla" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/>
 </p>
 
 #### 🔐 Security & Penetration Testing  
 <p align="left">
-  <img src="https://portswigger.net/cms/images/47/2a/6479-meta-og-image.png" alt="Burp Suite" width="40" height="40"/>
+    <!-- Burp Suite (official logo from website) -->
+  <img src="https://portswigger.net/burp/images/logo-128x128.png" alt="Burp Suite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://www.zaproxy.org/images/zap-logos/ZAP-256x256.png" alt="ZAP Proxy" width="40" height="40"/>
+    <!-- ZAP Proxy (direct from OWASP CDN) -->
+  <img src="https://www.zaproxy.org/img/zap-logo-128x128.png" alt="ZAP Proxy" width="40" height="40"/>
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="40" height="40"/>
 </p>
 
