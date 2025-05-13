@@ -50,7 +50,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunappu&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunappu-Awoken&show_icons=true&theme=dark)
 
 ---
 
